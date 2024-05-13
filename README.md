@@ -16,7 +16,7 @@ git clone git@github.com:Yagomfh/furniture-parser.git
 Run the CLI using the following command:
 
 ```bash
-python furniture_parser.py
+python3 furniture_parser.py
 ```
 
 ## Example
@@ -24,7 +24,7 @@ python furniture_parser.py
 Provide the path to the file containing the floor plan:
 
 ```bash
-python furniture_parser.py
+python3 furniture_parser.py
 Path to your file (i.e. path/to/file): example.txt
 ```
 
